@@ -63,8 +63,6 @@ Généralement en langue française, la lettre 'E' est la plus utilisée dans le
 
 ## Limites connues
 
-
-Sois honnête sur ce qui ne marche pas parfaitement, par exemple :
 - L'analyse fréquentielle peut se tromper sur un texte court. Exemple : "bonjour madame"
 - Ce programme simule un scénario où le texte chiffré est déjà "intercepté"
   (pas de vraie interception réseau)
